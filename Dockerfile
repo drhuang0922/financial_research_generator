@@ -23,8 +23,8 @@ RUN airflow db init
 RUN airflow users create \
     --username admin \
     --password admin \
-    --firstname First \
-    --lastname Last \
+    --firstname testName \
+    --lastname testLastName \
     --role Admin \
     --email admin@example.com
 

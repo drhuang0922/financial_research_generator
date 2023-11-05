@@ -1,2 +1,0 @@
-apache-airflow==2.1.2
-psycopg2-binary==2.8.6
